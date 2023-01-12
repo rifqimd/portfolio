@@ -1,6 +1,6 @@
 # Rifqi's Data Portfolio
 
-Hi, my name is Rifqi, a data analyst with a professional business background of 6+ years of experience in graphic design, UI/UX, web development, and performance marketing at tech startups and marketing agencies. I learned how to analyze content performance in social & crowdfunding industry and conducting analysis on market segmentation, customer churn/retention, visualize data from a recently finished 3-months full-stack data analytics program in RevoU.
+Hi, my name is Rifqi, a data analyst with strong background in design & data visualization. I did segmentation analysis, clustering analysis, visualised data using a dashboard and currently make monthly reports on content visual performance in my current job. Proficient in Python, data visualisation, and SQL, as well as able to think critically in identifying patterns and trends in data sets to inform strategic planning and decision-making with high adaptability.
 
 Please check out my portfolio,  
 Cheers!
