@@ -1,11 +1,43 @@
 # Rifqi's Data Portfolio
 
-Hi, my name is Rifqi, a data analyst with strong background in design & data visualization. I did segmentation analysis, clustering analysis, visualised data using a dashboard and currently make monthly reports on content visual performance in my current job. Proficient in Python, data visualisation, and SQL, as well as able to think critically in identifying patterns and trends in data sets to inform strategic planning and decision-making with high adaptability.
+Hi, my name is Rifqi, a data analyst with the ability to work well independently with minimum supervision and a strong background in design and data visualization. I did segmentation & clustering analysis and visualized data using a dashboard, and I currently make monthly reports on content visual performance in my current job. Proficient in Python, data visualization, and SQL, as well as able to critically identify patterns and trends in data sets to inform strategic planning with high adaptability. Currently utilizing my skills and expertise to make meaningful contributions and build a long-term career.
 
 Please check out my portfolio,  
 Cheers!
 
 ---
+
+## Experiences
+
+### Kitabisa.com
+
+Performance Marketing Visual Designer | Full-time
+
+- Achieved 133.8% of gross donation value target in April 2022.
+- Developing visual ad materials based on the content team’s brief.
+- Analyzing the performance of ads using Tableau which was gathered from Facebook Ads.
+- Designing and developing landing pages using WordPress CMS for campaigns.
+
+### The People of Asia
+
+Creative Director | Full-time
+
+- Developing visual materials to back the company’s brand.
+- Creating logos, branding materials, and visual guidelines for company departments.
+- Creating visual storytelling through videos, motion, and graphic design.
+- In charge of developing and designing landing pages for client campaigns.
+
+### Culturo.id
+
+Creative Marketing | Intern
+
+- Developing and designing landing pages for client campaigns.
+- Designing publication materials for LEXUS Indonesia’s campaign.
+- Analyzing in-page SEO for client landing pages.
+
+---
+
+# Skills
 
 ## Data Visualization (Tableau)
 
