@@ -37,6 +37,22 @@ Creative Marketing | Intern
 
 ---
 
+## Education
+
+### RevoU Full-Stack Data Analytics Program
+
+Batch 4
+(Final grades 94.4 out of 100)
+
+- Understanding Business Problems, Statistics & Spreadsheet (Data preparation, correlation, regression, A/B testing), SQL (Data cleaning), Python (Market segmentation & clustering analysis), Data Visualization (Google Data Studio, Tableau), Data Communication (Presentation skills).
+
+### Universitas Indonesia
+
+Bachelor of Business Administrative Science
+(GPA 3.41 out of 4.00)
+
+---
+
 # Skills
 
 ## Data Visualization (Tableau)
